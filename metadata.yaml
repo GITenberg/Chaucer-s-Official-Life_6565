@@ -1,0 +1,28 @@
+_repo: Chaucer-s-Official-Life_6565
+creator:
+  author:
+    agent_name: Hulbert, James R. (James Root)
+    aliases:
+    - Hulbert, J. R. (James Root)
+    - Hulbert, James Root
+    birthdate: 1884
+    deathdate: 1969
+    gutenberg_agent_id: '2086'
+    url: http://www.gutenberg.org/2009/agents/2086
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'John, of Gaunt, Duke of Lancaster, 1340-1399'
+- !lcsh 'Chaucer, Geoffrey, -1400'
+- !lcsh 'Chaucer, Geoffrey, -1400 -- Friends and associates'
+- !lcc 'PR'
+- !lcsh 'Poets, English -- Middle English, 1100-1500 -- Biography'
+title: Chaucer's Official Life
+url: http://www.gutenberg.org/ebooks/6565
